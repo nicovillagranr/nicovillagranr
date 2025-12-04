@@ -1,46 +1,28 @@
 ## Hi there 👋
 
-Web Development Workspace
+Web Development Workspace — Resumen Ejecutivo
 
-Este repositorio funciona como un workspace integral para mi desarrollo como Front-End Developer. Consolida mis bases, mis prácticas, mis experimentos y los proyectos que voy transformando en piezas reales de portafolio. Cada módulo refleja una etapa de madurez técnica y un criterio cada vez más sólido para construir interfaces y sistemas escalables.
+Repositorio diseñado como un workspace integral para consolidar y escalar mis habilidades de Front-End. Reúne fundamentos, prácticas, experimentos y proyectos reales en una estructura progresiva.
 
 Estructura
-01-html-basics/
-Fundamentos del lenguaje, semántica, estructura del DOM y primeros layouts.
 
-02-css-layouts/
-Flexbox, Grid, responsive design, tipografías, variables y patrones de UI.
+01-html-basics: Semántica, DOM y primeros layouts.
+02-css-layouts: Flexbox, Grid, responsive y patrones de UI.
+03-javascript-logic: Lógica, POO, asincronía, validaciones y mini proyectos.
+04-react-projects: Componentes, hooks, estado, routing y proyectos escalables.
+05-scripts: Utilidades y automatizaciones.
 
-03-javascript-logic/
-Lógica, funciones puras, POO, manejo del DOM, asincronía, validaciones y mini proyectos funcionales.
+Objetivo
+Crear una base técnica sólida, documentada y escalable, evolucionando desde los fundamentos hasta React avanzado y futuras integraciones con Three.js para el portafolio 3D.
 
-04-react-projects/
-Componentes, composición, hooks, estado, routing, consumo de APIs y proyectos escalables orientados a producción.
+Criterios
+Código modular, semántico y accesible; separación clara entre lógica, vista y estilos; componentización progresiva; versionado transparente con Git.
 
-05-scripts/
-Utilidades, automatizaciones y pequeños recursos que uso en diversos proyectos.
+Roadmap
 
-Objetivo:
-Construir una base técnica consistente y documentada, evolucionando desde los fundamentos hasta arquitecturas más avanzadas en React y posteriormente integraciones con Three.js para mi portafolio 3D. Este repositorio refleja mi proceso real de pensamiento: iterativo, práctico y orientado a resolver problemas.
+Completado: HTML, CSS layouts, JavaScript base + POO, React fundamentals.
 
-Convenciones y criterios
-Código modular y nombrado de forma consistente.
-Enfoque en accesibilidad, semántica y buenas prácticas de UI.
-Componentización progresiva en React.
-Separación clara entre lógica, vista y estilos.
-Uso de Git para versionar de forma transparente mi aprendizaje y mis decisiones técnicas.
+Próximo: React avanzado, testing, performance, animaciones, Three.js.
 
-Roadmap de progreso
-[✔] Fundamentos de HTML
-[✔] Sistemas de layout con CSS
-[✔] JavaScript base + POO
-[✔] React fundamentals (useState, useEffect, props, composición)
-
- React avanzado (context, reducers, patrones de arquitectura)
- Testing (unitario e integración)
- Performance y optimización
- Animaciones avanzadas
- Three.js para portafolio 3D
 Tecnologías
-
-HTML5 · CSS3 · JavaScript (ES6+) · React · Git · GitHub
+HTML5, CSS3, JavaScript ES6+, React, Git, GitHub.
