@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Web Development Workspace — Resumen Ejecutivo
-
 Repositorio diseñado como un workspace integral para consolidar y escalar mis habilidades de Front-End. Reúne fundamentos, prácticas, experimentos y proyectos reales en una estructura progresiva.
 
 Estructura
