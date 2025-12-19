@@ -1,26 +1,13 @@
-## Hi there 👋
+👋 Hi, I’m Nico Villagrán
 
-Repositorio diseñado como un workspace integral para consolidar y escalar mis habilidades de Front-End. Reúne fundamentos, prácticas, experimentos y proyectos reales en una estructura progresiva.
+Tengo 22 años y estudio **Desarrollo Front-End de forma autodidacta**.  
+Me interesan los sistemas bien pensados, el aprendizaje progresivo y construir bases sólidas antes de escalar.
 
-Estructura
+Este repositorio es una **representación de cómo funciona mi cabeza**: una ruta de aprendizaje clara, intuitiva y escalable, desde los fundamentos hasta proyectos reales en React.
 
-01-html-basics: Semántica, DOM y primeros layouts.
-02-css-layouts: Flexbox, Grid, responsive y patrones de UI.
-03-javascript-logic: Lógica, POO, asincronía, validaciones y mini proyectos.
-04-react-projects: Componentes, hooks, estado, routing y proyectos escalables.
-05-scripts: Utilidades y automatizaciones.
+Hay una idea que se repite constantemente en mi forma de pensar:  
+**“Todo en esta vida es perfectible.”**  
+Por eso siempre busco mejores formas de hacer las cosas y nunca me conformo con lo que ya sé.
 
-Objetivo
-Crear una base técnica sólida, documentada y escalable, evolucionando desde los fundamentos hasta React avanzado y futuras integraciones con Three.js para el portafolio 3D.
-
-Criterios
-Código modular, semántico y accesible; separación clara entre lógica, vista y estilos; componentización progresiva; versionado transparente con Git.
-
-Roadmap
-
-Completado: HTML, CSS layouts, JavaScript base + POO, React fundamentals.
-
-Próximo: React avanzado, testing, performance, animaciones, Three.js.
-
-Tecnologías
-HTML5, CSS3, JavaScript ES6+, React, Git, GitHub.
+Fuera del código, me gusta el **ciclismo** y la **Fórmula 1**.  
+Dentro del código, me importa el criterio, la estructura y el porqué de cada decisión.
