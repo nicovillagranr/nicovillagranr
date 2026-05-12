@@ -1,6 +1,6 @@
 👋 Hi, I’m Nico Villagrán
 
-Tengo 22 años y estudio **Desarrollo Front-End de forma autodidacta**.  
+Tengo 23 años y estudio **Desarrollo Front-End de forma autodidacta**.  
 Me interesan los sistemas bien pensados, el aprendizaje progresivo y construir bases sólidas antes de escalar.
 
 Este repositorio es una **representación de cómo funciona mi cabeza**: una ruta de aprendizaje clara, intuitiva y escalable, desde los fundamentos hasta proyectos reales en React.
