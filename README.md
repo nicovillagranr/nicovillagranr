@@ -10,6 +10,6 @@ Hay una idea que se repite constantemente en mi forma de pensar:
 Por eso siempre busco mejores formas de hacer las cosas y nunca me conformo con lo que ya sé.
 
 Fuera del código, me gustan la **Fórmula 1** y la música electrónica, sobre todo **RÜFÜS DU SOL**.  
-Dentro del código, dejo escrito el porqué de cada decisión antes de aplicarla: está en [**00-docs**](https://github.com/nicovillagranr/web-development/tree/master/01-learning/00-docs).
+Dentro del código, dejo escrito el porqué de mis decisiones: está en [**00-docs**](https://github.com/nicovillagranr/web-development/tree/master/01-learning/00-docs).
 
 [nico-villagran.com](https://nico-villagran.com) · [LinkedIn](https://www.linkedin.com/in/nico-villagran/)
